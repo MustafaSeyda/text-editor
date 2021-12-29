@@ -1,1 +1,1 @@
-# text-edit-r
+# text-editör
